@@ -1,0 +1,6 @@
+2023/11/30-03:03:37.299 6154 Creating DB E:/1 new studio/TerrifyingTales/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/30-03:03:37.311 6154 Reusing MANIFEST E:/1 new studio/TerrifyingTales/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/30-03:06:39.513 550c Level-0 table #5: started
+2023/11/30-03:06:39.521 550c Level-0 table #5: 1167 bytes OK
+2023/11/30-03:06:39.522 550c Delete type=0 #3
+2023/11/30-03:06:39.523 550c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
