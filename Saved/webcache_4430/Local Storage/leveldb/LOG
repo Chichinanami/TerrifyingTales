@@ -1,3 +1,2 @@
-2023/12/08-04:16:17.538 3c8c Reusing MANIFEST E:/1 new studio/TerrifyingTales/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/12/08-04:16:17.539 3c8c Recovering log #3
-2023/12/08-04:16:17.540 3c8c Reusing old log E:/1 new studio/TerrifyingTales/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/12/08-19:27:23.524 35b0 Creating DB E:/1 new studio/TerrifyingTales/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/12/08-19:27:23.539 35b0 Reusing MANIFEST E:/1 new studio/TerrifyingTales/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
